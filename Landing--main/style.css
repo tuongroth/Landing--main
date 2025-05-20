@@ -275,7 +275,7 @@ p {
   .nav-links li {
     margin: 30px auto;
   }
-}
+
 /* Image container */
 .col img {
   max-width: 90%;
@@ -324,4 +324,4 @@ img:hover {
 li:hover {
   color: #fc036b;
   cursor: pointer;
-}
+}}
